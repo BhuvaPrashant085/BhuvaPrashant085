@@ -1,4 +1,5 @@
-### 💫 About Me:
+# 💫 About Me:
+
 
 ### 👋 Hi, I'm Prashant Bhuva<br><br>I'm a **Python & Django Developer** and a **B.Tech Computer Science Engineering student** from Rajkot, Gujarat, India. I enjoy building scalable web applications, solving real-world problems, and continuously improving my programming skills.<br><br>### 🚀 About Me<br><br>* 💻 Python & Django Developer<br>* 🌐 Passionate about Backend Development & REST APIs<br>* 🗄️ Experience with MySQL, SQLite, HTML, CSS, JavaScript, and Git<br>* 🔐 Interested in Authentication, JWT, and Web Security<br>* 🚑 Developed an Emergency Management System (EMS) using Django<br>* 📚 Currently learning advanced Django, System Design, and DSA<br>* 🤝 Open to internships, freelance projects, and collaboration<br><br>### 🛠️ Tech Stack<br><br>* **Languages:** Python, C, JavaScript, SQL<br>* **Frameworks:** Django, Flask<br>* **Frontend:** HTML5, CSS3, Bootstrap, JavaScript<br>* **Database:** MySQL, SQLite<br>* **Tools:** Git, GitHub, VS Code, Postman<br><br>### 🎯 Career Goal<br><br>To become a skilled Backend Developer by building impactful applications, contributing to open-source projects, and continuously learning modern technologies.<br><br>📫 **Email:** [prashantbhuva085@gmail.com](mailto:prashantbhuva085@gmail.com)<br>
 
