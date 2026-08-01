@@ -1,34 +1,6 @@
-# 💫 About Me
+### 💫 About Me:
 
-## 👋 Hi, I'm Prashant Bhuva
-
-<sub>
-
-**Python & Django Developer** | **B.Tech CSE Student** | Rajkot, Gujarat, India  
-I enjoy building scalable web applications, solving real-world problems, and continuously improving my programming skills.
-
-### 🚀 About Me
-* 💻 Python & Django Developer
-* 🌐 Passionate about Backend Development & REST APIs
-* 🔐 Interested in Authentication, JWT & Web Security
-* 🚑 Built an Emergency Management System (EMS) using Django
-* 📚 Learning Advanced Django, System Design & DSA
-* 🤝 Open to internships and collaborations
-
-### 🛠️ Tech Stack
-* **Languages:** Python, C, JavaScript, SQL
-* **Frameworks:** Django, Flask
-* **Frontend:** HTML, CSS, Bootstrap, JavaScript
-* **Database:** MySQL, SQLite
-* **Tools:** Git, GitHub, VS Code, Postman
-
-### 🎯 Goal
-
-Become a skilled Backend Developer by building impactful applications and contributing to open source.
-
-📫 **Email:** <a href="mailto:prashantbhuva085@gmail.com">[prashantbhuva085@gmail.com](mailto:prashantbhuva085@gmail.com)</a>
-
-</sub>
+# 👋 Hi, I'm Prashant Bhuva<br><br>I'm a **Python & Django Developer** and a **B.Tech Computer Science Engineering student** from Rajkot, Gujarat, India. I enjoy building scalable web applications, solving real-world problems, and continuously improving my programming skills.<br><br>### 🚀 About Me<br><br>* 💻 Python & Django Developer<br>* 🌐 Passionate about Backend Development & REST APIs<br>* 🗄️ Experience with MySQL, SQLite, HTML, CSS, JavaScript, and Git<br>* 🔐 Interested in Authentication, JWT, and Web Security<br>* 🚑 Developed an Emergency Management System (EMS) using Django<br>* 📚 Currently learning advanced Django, System Design, and DSA<br>* 🤝 Open to internships, freelance projects, and collaboration<br><br>### 🛠️ Tech Stack<br><br>* **Languages:** Python, C, JavaScript, SQL<br>* **Frameworks:** Django, Flask<br>* **Frontend:** HTML5, CSS3, Bootstrap, JavaScript<br>* **Database:** MySQL, SQLite<br>* **Tools:** Git, GitHub, VS Code, Postman<br><br>### 🎯 Career Goal<br><br>To become a skilled Backend Developer by building impactful applications, contributing to open-source projects, and continuously learning modern technologies.<br><br>📫 **Email:** [prashantbhuva085@gmail.com](mailto:prashantbhuva085@gmail.com)<br>
 
 
 ## 🌐 Socials:
