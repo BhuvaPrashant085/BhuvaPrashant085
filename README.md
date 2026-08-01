@@ -4,12 +4,10 @@
 
 <sub>
 
-**Python & Django Developer** | **B.Tech CSE Student** | Rajkot, Gujarat, India
-
+**Python & Django Developer** | **B.Tech CSE Student** | Rajkot, Gujarat, India  
 I enjoy building scalable web applications, solving real-world problems, and continuously improving my programming skills.
 
 ### 🚀 About Me
-
 * 💻 Python & Django Developer
 * 🌐 Passionate about Backend Development & REST APIs
 * 🔐 Interested in Authentication, JWT & Web Security
@@ -18,7 +16,6 @@ I enjoy building scalable web applications, solving real-world problems, and con
 * 🤝 Open to internships and collaborations
 
 ### 🛠️ Tech Stack
-
 * **Languages:** Python, C, JavaScript, SQL
 * **Frameworks:** Django, Flask
 * **Frontend:** HTML, CSS, Bootstrap, JavaScript
