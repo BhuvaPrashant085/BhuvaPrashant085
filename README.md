@@ -25,3 +25,26 @@
 ![](https://streak-stats.demolab.com/?user=Bhuvaprashant085&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BhuvaPrashant085&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 GitHub Stats:
+
+
+![](https://github-readme-stats.shion.dev/api?username=Bhuvaprashant085&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+<br/>
+
+
+![](https://streak-stats.demolab.com/?user=Bhuvaprashant085&theme=dark&hide_border=false)
+
+<br/>
+
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BhuvaPrashant085&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+## 📈 Activity Graph:
+[
+
+![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BhuvaPrashant085&theme=react-dark)
+
+](https://github.com/BhuvaPrashant085)
