@@ -237,9 +237,8 @@ An <b>AI-powered voice-controlled restaurant billing system</b> that converts sp
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhuvaPrashant085&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaPrashant085&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BhuvaPrashant085&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaPrashant085&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -263,7 +262,9 @@ An <b>AI-powered voice-controlled restaurant billing system</b> that converts sp
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BhuvaPrashant085&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" />
+  <a href="https://github.com/BhuvaPrashant085?tab=achievements">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
