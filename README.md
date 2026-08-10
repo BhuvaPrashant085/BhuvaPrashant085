@@ -1,104 +1,177 @@
+# 👋 Hi, I'm Prashant Bhuva
+
+### 🐍 Python & Django Developer | Backend Developer | B.Tech CSE Student
+
+I'm a **B.Tech Computer Science Engineering student from Rajkot, Gujarat, India**, passionate about building practical and scalable web applications using **Python and Django**.
+
+I enjoy turning real-world problems into software solutions, designing REST APIs, working with databases, and continuously improving my problem-solving and development skills.
+
+---
+
+## 🚀 About Me
+
+* 🐍 Python & Django Developer
+* ⚙️ Focused on **Backend Development & REST APIs**
+* 🔐 Interested in **Authentication, JWT & Web Security**
+* 🗄️ Experienced with **MySQL & SQLite**
+* 🌐 Comfortable with **HTML, CSS & JavaScript**
+* 🚑 Built an **Emergency Management System (EMS)** using Django
+* 🎯 Currently improving my **Django, DSA & System Design** skills
+* 🤝 Open to **internships, freelance projects & collaboration**
+* 💡 Interested in building software that solves real-world problems
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+### 🔧 Tools & Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Smart Internship Matchmaker
+
+A smart platform designed to help students discover internship opportunities based on their **skills, interests, qualifications, and preferences**.
+
+**Key Areas:**
+
+* 👨‍🎓 Student profiles
+* 💼 Internship listings
+* 🧠 Skill-based matching
+* 🔎 Internship search and filtering
+* 📊 Matching and recommendation logic
+* 🔐 User authentication
+
+**Tech:** Python • Django • Django REST Framework • HTML • CSS • JavaScript • Database
+
+---
+
+### 🚑 Emergency Management System
+
+A Django-based web application designed to manage emergency-related information and improve coordination between users and emergency services.
+
+**Key Areas:**
+
+* 🔐 User authentication
+* 🚨 Emergency management
+* 👥 User and role management
+* 🗄️ Database management
+* 🌐 Django-based web interface
+
+**Tech:** Python • Django • HTML • CSS • JavaScript • MySQL/SQLite
+
+---
+
+## 📚 Currently Learning
+
+```text
+Advanced Django
+       ↓
+Django REST Framework
+       ↓
+Authentication & JWT
+       ↓
+System Design
+       ↓
+Data Structures & Algorithms
+       ↓
+Scalable Backend Development
+```
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a **strong Backend Developer** capable of designing reliable, secure, and scalable applications.
+
+I want to:
+
+* 🚀 Build impactful real-world applications
+* 🧠 Strengthen my DSA & problem-solving skills
+* ⚙️ Master Django and REST API development
+* 🔐 Learn more about backend security
+* 🏗️ Improve my System Design knowledge
+* 🌍 Contribute to open-source projects
+* 🤝 Work with developers and teams on meaningful projects
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/BhuvaPrashant085">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Prashant+Bhuva;Python+%2B+Django+Developer;CS+Student+at+Atmiya+University" alt="Typing SVG" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=BhuvaPrashant085&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaPrashant085&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-# 💫 About Me:
-
-### 👋 Hi, I'm Prashant Bhuva
-
-I'm a **Python & Django Developer** and a **B.Tech Computer Science Engineering student** from Rajkot, Gujarat, India. I enjoy building scalable web applications, solving real-world problems, and continuously improving my programming skills.
-
-### 🚀 About Me
-
-* 💻 Python & Django Developer
-* 🌐 Passionate about Backend Development & REST APIs
-* 🗄️ Experience with MySQL, SQLite, HTML, CSS, JavaScript, and Git
-* 🔐 Interested in Authentication, JWT, and Web Security
-* 🚑 Developed an Emergency Management System (EMS) using Django
-* 📚 Currently learning advanced Django, System Design, and DSA
-* 🤝 Open to internships, freelance projects, and collaboration
-
-### 🛠️ Tech Stack
-
-* **Languages:** Python, C, JavaScript, SQL
-* **Frameworks:** Django, Flask
-* **Frontend:** HTML5, CSS3, Bootstrap, JavaScript
-* **Database:** MySQL, SQLite
-* **Tools:** Git, GitHub, VS Code, Postman
-
-### 🎯 Career Goal
-
-To become a skilled Backend Developer by building impactful applications, contributing to open-source projects, and continuously learning modern technologies.
-
-📫 **Email:** [prashantbhuva085@gmail.com](mailto:prashantbhuva085@gmail.com)
-
-### 🌐 Socials:
-
-
-
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)![Website](https://img.shields.io/badge/Website-%23E4405F.svg?logo=Website&logoColor=white)
-
 ---
 
-# 💻 Tech Stack:
+## 🔥 GitHub Streak
 
-
-
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BhuvaPrashant085&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
+## 📈 Contribution Graph
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)        ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)        ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)        ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white)
-
-
-
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)        ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)        ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)    
-
-
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)        ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)        ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)        ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhuvaPrashant085&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-# 📊 GitHub Stats:
+## 🌐 Connect With Me
 
+<p align="left">
 
+<a href="mailto:prashantbhuva085@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![](https://github-readme-stats.shion.dev/api?username=BhuvaPrashant085&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<a href="https://github.com/BhuvaPrashant085">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
-
-
-![](https://streak-stats.demolab.com/?user=BhuvaPrashant085&theme=dark&hide_border=false)
-
-<br/>
-
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BhuvaPrashant085&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+</p>
 
 ---
 
-## 📈 Activity Graph:
+## 💡 Developer Mindset
 
-[
+> **"Learn. Build. Solve. Improve. Repeat."**
 
-![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BhuvaPrashant085&theme=react-dark)
+I'm always open to learning new technologies, solving challenging problems, and collaborating on interesting projects.
 
-](https://github.com/BhuvaPrashant085)
+### ⭐ If you find my projects useful, consider giving them a star!
