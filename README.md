@@ -113,7 +113,7 @@ Currently, I'm deepening my knowledge in **Advanced Django, System Design, Data 
 <h3 align="center">🧠 Smart Internship Matchmaker</h3>
 
 <p align="center">
-  <a href="https://github.com/BhuvaPrashant085/Smart_Internship_Matchmaker">
+  <a href="https://github.com/BhuvaPrashant085/Smart_Internship_Matchmaker1">
     <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
