@@ -295,7 +295,7 @@ An <b>AI-powered voice-controlled restaurant billing system</b> that converts sp
 
 # 🤝 Let's Connect
 
-<p align="center">
+
 
 <a href="https://prashantbhuva.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge&logoColor=white"/>
@@ -320,7 +320,6 @@ An <b>AI-powered voice-controlled restaurant billing system</b> that converts sp
 </a>
 
 </p>
-
 ---
 
 <p align="center">
