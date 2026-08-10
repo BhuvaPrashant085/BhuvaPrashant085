@@ -234,13 +234,21 @@ An <b>AI-powered voice-controlled restaurant billing system</b> that converts sp
 
 ---
 
-# 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhuvaPrashant085&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaPrashant085&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/BhuvaPrashant085">
+    <img src="https://img.shields.io/github/repos/BhuvaPrashant085?style=for-the-badge&logo=github&label=Repositories&color=58A6FF" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/BhuvaPrashant085?tab=followers">
+    <img src="https://img.shields.io/github/followers/BhuvaPrashant085?style=for-the-badge&logo=github&label=Followers&color=58A6FF" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/BhuvaPrashant085?tab=stars">
+    <img src="https://img.shields.io/github/stars/BhuvaPrashant085?style=for-the-badge&logo=github&label=Stars&color=58A6FF" />
+  </a>
 </p>
-
 ---
 
 # 🔥 GitHub Streak
