@@ -2,6 +2,7 @@
 
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prashant%20Bhuva&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Python%20%26%20Django%20Developer%20%7C%20B.Tech%20CSE%20%7C%20Rajkot%2C%20India&descSize=18&descAlignY=60&descColor=a0c4ff" alt="header"/>
+
 <!-- Typing animation -->
 <a href="https://github.com/BhuvaPrashant085">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Building+scalable+backends+with+Django+%F0%9F%90%8D;REST+API+%7C+Authentication+%7C+Web+Security+%F0%9F%94%90;Open+to+internships+%26+collaboration+%F0%9F%A4%9D;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG"/>
