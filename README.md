@@ -276,9 +276,6 @@ An <b>AI-powered voice-controlled restaurant billing system</b> that converts sp
 
 <br/>
 
-## 📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhuvaPrashant085&theme=react-dark&hide_border=true)
 
 # 📈 Contribution Activity
 
