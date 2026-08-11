@@ -252,7 +252,9 @@ An <b>AI-powered voice-controlled restaurant billing system</b> that converts sp
 ---
 
 
-# 📊 GitHub Stats:
+---
+
+# 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=BhuvaPrashant085&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -265,6 +267,8 @@ An <b>AI-powered voice-controlled restaurant billing system</b> that converts sp
 <br/>
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=BhuvaPrashant085&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 
 <br/>
 
