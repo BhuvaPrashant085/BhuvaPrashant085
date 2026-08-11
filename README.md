@@ -254,15 +254,23 @@ An <b>AI-powered voice-controlled restaurant billing system</b> that converts sp
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=BhuvaPrashant085&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=BhuvaPrashant085&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <br/>
 
-![](https://streak-stats.demolab.com/?user=BhuvaPrashant085&theme=dark&hide_border=false)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=BhuvaPrashant085&theme=dark&hide_border=false)
 
 <br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BhuvaPrashant085&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=BhuvaPrashant085&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br/>
+
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhuvaPrashant085&theme=react-dark&hide_border=true)
 
 # 📈 Contribution Activity
 
