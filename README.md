@@ -234,28 +234,6 @@ An <b>AI-powered voice-controlled restaurant billing system</b> that converts sp
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <a href="https://github.com/BhuvaPrashant085">
-    <img src="https://img.shields.io/github/repos/BhuvaPrashant085?style=for-the-badge&logo=github&label=Repositories&color=58A6FF" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/BhuvaPrashant085?tab=followers">
-    <img src="https://img.shields.io/github/followers/BhuvaPrashant085?style=for-the-badge&logo=github&label=Followers&color=58A6FF" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/BhuvaPrashant085?tab=stars">
-    <img src="https://img.shields.io/github/stars/BhuvaPrashant085?style=for-the-badge&logo=github&label=Stars&color=58A6FF" />
-  </a>
-</p>
----
-
-
----
-
----
-
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=BhuvaPrashant085&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
